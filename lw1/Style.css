@@ -359,6 +359,15 @@ body {
   .footer ul li a {
     color: rgba(0, 0, 0, 1);
   }
-
+  
+  .P1{
+    width="20%
+  }
+  .P2{
+    width="80%
+  }
+  .P3{
+    width="20%
+  }
 
   @media screen and (max-width: 500px) {}
